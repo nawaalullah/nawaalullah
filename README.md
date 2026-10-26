@@ -56,7 +56,7 @@ Berkenalan, diskusi, dan kolaborasi proyek web
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,sqlite,git,github,figma,vscode&perline=13" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,sqlite,git,github,figma,vscode&perline=14" alt="Tech stack" />
 
 </div>
 
@@ -66,7 +66,7 @@ Berkenalan, diskusi, dan kolaborasi proyek web
 
 | Kategori | Teknologi |
 | --- | --- |
-| **Front-End** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| **Front-End** | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap |
 | **Back-End dan Data** | Node.js, Next.js Server Actions, SQLite |
 | **Tools** | Git, GitHub, VS Code, Figma |
 
@@ -120,18 +120,6 @@ Tambahkan proyek lain di sini, lengkap dengan tautan repositorinya.
 <img src="https://ghchart.rshah.org/38BDF8/nawaalullah" alt="Kontribusi GitHub" width="100%" />
 
 </div>
-
-<details>
-<summary><b>🏆 Trofi GitHub</b> (klik untuk membuka)</summary>
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nawaalullah&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
-
-</div>
-
-</details>
 
 ## 📫 Kontak
 
